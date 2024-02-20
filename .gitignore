@@ -3,7 +3,6 @@ node_modules
 cdk.context.json
 cdk.out
 build
-package-lock.json
 deployment.json
 
 # SBT
